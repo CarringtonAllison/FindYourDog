@@ -18,7 +18,7 @@ FindYourDog is a web application that allows users to search for dogs based on v
 - User authentication
 - Search for dogs by breed, age, and location
 - Mark dogs as favorites
-- Find a match based on favorite dogs
+- Find a match based on your favorite dogs
 - Pagination and sorting of search results
 
 ## Installation
@@ -35,11 +35,13 @@ FindYourDog is a web application that allows users to search for dogs based on v
 
 1. Start the local development server. 
    `npm run dev` 
-2. Open yoor browser and navigate to `http://localhost:5173` 
+2. Open your browser and navigate to `http://localhost:5173` 
 
 
 ## Future Implementations
 
+- **Responsive Design:** add media queries to keep a responsive design for mobile viewing.
+- **Testing:** Add tests to validate code.
 - **User Profiles:** Allow users to create and manage their profiles.
 - **Advanced Search Filters:** Add more filters such as size, gender, and temperament.
 - **Notifications:** Implement notifications for new matches or messages.
