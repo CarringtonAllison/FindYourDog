@@ -25,7 +25,7 @@ FindYourDog is a web application that allows users to search for dogs based on v
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/FindYourDog.git
+   git clone https://github.com/CarringtonAllison/FindYourDog.git
    cd FindYourDog
 
 2. Install dependencies:
