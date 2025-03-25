@@ -1,6 +1,6 @@
 # FindYourDog
 
-Find Your Favorite Dog! Frontend assignment for Fetch.
+Find Your Favorite Dog!
 
 ## Table of Contents
 
